@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yanfeng (William) Fang"
+  pronouns         : # example: "he/him"  
+  bio              : "B.Sc., M.A., Economics"
+  location         : "Vancouver, Canada / Shenzhen, China"
+  employer         : "University of British Columbia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "willfyf@gmail.com" 
 
   # Academic websites
   academia         : # URL
