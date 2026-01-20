@@ -27,7 +27,7 @@ author:
   name             : "William Fang"
   pronouns         : # example: "he/him"  
   bio              : "B.Sc., M.A., Economics"
-  location         : "Vancouver🇨🇦 / Shenzhen🇨🇳"
+  location         : "Vancouver🇨🇦 & Shenzhen🇨🇳"
   employer         : "University of British Columbia"
   uri              : # URL
   email            : "fangyfwill@qq.com" 
@@ -49,9 +49,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Papers'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
