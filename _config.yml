@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile_photo.png"
   name             : "William Fang"
   pronouns         : # example: "he/him"  
   bio              : "B.Sc., M.A., Economics"
