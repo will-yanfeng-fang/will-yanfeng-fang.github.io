@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/William_Fang_Resume.pdf
 author_profile: true
 redirect_from:
   - /resume
+  - /cv/
 ---
 {% include base_path %}
 
