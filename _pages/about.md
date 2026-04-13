@@ -18,6 +18,7 @@ My research interests lie in political economy, cultural economics, and anthropo
 **University of British Columbia** — Vancouver, BC
 
 *M.A. Economics (GPA 4.1/4.33)* — Sep 2024 – Nov 2025
+
 *B.Sc. Food and Resource Economics, with Honours (GPA 4.0/4.33)* — Sep 2020 – May 2024
 - [Outstanding Graduates of 2024 Class](https://www.landfood.ubc.ca/celebrating-the-class-of-2024/); F.M. Clement Prize; Dean's Honor Roll (2021 – 2023);
 
