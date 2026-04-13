@@ -1,5 +1,5 @@
 ---
-title: "Instructor (Self-Employed)"
+title: "Private Tutor"
 collection: teaching
 type: "Private Instruction"
 permalink: /teaching/2019-instructor
