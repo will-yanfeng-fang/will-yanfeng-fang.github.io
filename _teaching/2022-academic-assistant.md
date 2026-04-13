@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Academic Assistant"
+title: "Academic Assistant"
 collection: teaching
 type: "Undergraduate Academic Assistantship"
 permalink: /teaching/2022-academic-assistant
