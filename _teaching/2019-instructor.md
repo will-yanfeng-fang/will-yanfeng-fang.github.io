@@ -1,7 +1,7 @@
 ---
-title: "Private Tutor"
+title: "AP / College Economics"
 collection: teaching
-type: "Private Instruction"
+type: "Private Tutor"
 permalink: /teaching/2019-instructor
 venue: "Multiple Institutions, China & Canada"
 date: 2019-07-01
