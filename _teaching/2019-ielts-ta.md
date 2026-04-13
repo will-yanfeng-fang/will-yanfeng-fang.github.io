@@ -1,7 +1,7 @@
 ---
-title: "IELTS Teaching Assistant"
+title: "IELTS"
 collection: teaching
-type: "Teaching Assistantship"
+type: "IELTS Teaching Assistant"
 permalink: /teaching/2019-ielts-ta
 venue: "Shenzhen SEG Training Centre"
 date: 2019-07-01
