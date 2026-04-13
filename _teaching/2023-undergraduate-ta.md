@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Teaching Assistantship"
 permalink: /teaching/2023-undergraduate-ta
 venue: "University of British Columbia"
-date: 2023-01-01
+date: 2022-07-01
 location: "Vancouver, BC, Canada"
 ---
 
