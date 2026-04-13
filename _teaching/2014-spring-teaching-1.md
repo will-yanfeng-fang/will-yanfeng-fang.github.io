@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Economics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of British Columbia, Vancouver School of Economics"
+date: Sep 2024 - Apr 2025
+location: "Vancouver, Canada"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
