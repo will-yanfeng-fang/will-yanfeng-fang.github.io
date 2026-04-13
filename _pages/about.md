@@ -13,6 +13,7 @@ I am a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc
 
 My research interests lie in political economy, cultural economics, and anthropology. In my free time, I practice [photography](https://www.flickr.com/photos/202753897@N08/) and music. I was recognized as an [Outstanding Graduate of the Class of 2024](https://www.landfood.ubc.ca/celebrating-the-class-of-2024/) by the UBC Faculty of Land and Food Systems, and was featured in a [faculty interview](https://www.landfood.ubc.ca/class-of-2024-william-fang/) as well as a [UBC Admissions interview (Mandarin)](https://mp.weixin.qq.com/s/9oKqySjSlGXv71n2pE0Xig).
 
+
 # Education
 
 **University of British Columbia** — Vancouver, BC
