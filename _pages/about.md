@@ -25,13 +25,25 @@ My research interests lie in political economy, cultural economics, and anthropo
 
 <br>
 
+# Employment
+
+**University of British Columbia** — Vancouver, BC
+
+*Research Assistant* — May 2025 – Present
+
+*Teaching Assistant* — Jan 2023 – Apr 2025
+
+*Academic Assistant* — Jul 2022 – Aug 2022
+
+<br>
+
 # Working Papers
 
 ## China's College Expansion and Inequality: A Heterogeneity Test
 
 We investigate the causal effects of China's 1999 College Expansion ("the Expansion") and the resulting increase in college attainment using sharp Regression Discontinuity Designs. We find heterogeneous treatment effects across regions and hukou status, but no significant heterogeneity by gender or parental background. A placebo test using a fake cutoff confirms that the rise in college attainment is uniquely driven by the Expansion for most subgroups; however, mild pre-existing trends among individuals with agricultural hukou and those with CCP-affiliated parents suggest caution when interpreting heterogeneity related to institutional characteristics. Whether these findings generalize to the recent, more aggressive expansions at the graduate and doctoral levels remains uncertain and warrants further research.
 
-## The Long-Term Effects of China's One-Child Policy (with Jiazhe Li)
+## The Long-Term Effects of China's One-Child Policy (with [Josh Li](https://www.linkedin.com/in/jiazheli4638/))
 
 We analyze the long-term effect of China's One-Child Policy (OCP) from 2003 to 2020 when the first wave of only children has grown up and formed a family. With Regression Discontinuity Design to construct a counterfactual, we document that stricter OCP leads to a dramatic drop in divorce cases by almost 30 thousand and CPI (in 2004 value) by almost 5, along with a jump in the share of the secondary sector in GDP by 13% and house price growth rate by more than 100%. A placebo analysis of the Two-Child Policy verifies that the result is uniquely caused by the OCP.
 
