@@ -20,20 +20,7 @@ My research interests lie in political economy, cultural economics, and anthropo
 **University of British Columbia** — Vancouver, BC
 
 *M.A. Economics (GPA 4.1/4.33)* — Sep 2024 – Nov 2025
-
 *B.Sc. Food and Resource Economics, with Honours (GPA 4.0/4.33)* — Sep 2020 – May 2024
-
-<br>
-
-# Employment
-
-**University of British Columbia** — Vancouver, BC
-
-*Research Assistant* — May 2025 – Present
-
-*Teaching Assistant* — Jan 2023 – Apr 2025
-
-*Academic Assistant* — Jul 2022 – Aug 2022
 
 <br>
 
