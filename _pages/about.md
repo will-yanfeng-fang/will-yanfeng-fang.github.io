@@ -13,6 +13,15 @@ I am a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc
 
 My research interests lie in political economy, cultural economics, and anthropology. In my free time, I practice [photography](https://www.flickr.com/photos/202753897@N08/) and music. You can find my [CV here](https://drive.google.com/file/d/12y7sarRsK3IsLTUOa3Sc5b3vH7KEP9sX/view?usp=sharing).
 
+# Education
+
+**University of British Columbia** — Vancouver, BC
+
+*M.A. Economics (GPA 4.1/4.33)* — Sep 2024 – Nov 2025
+*B.Sc. Food and Resource Economics, with Honours (GPA 4.0/4.33)* — Sep 2020 – May 2024
+- [Outstanding Graduates of 2024 Class](https://www.landfood.ubc.ca/celebrating-the-class-of-2024/); F.M. Clement Prize; Dean's Honor Roll (2021 – 2023);
+
+
 # Working Papers
 
 ## China's College Expansion and Inequality: A Heterogeneity Test
