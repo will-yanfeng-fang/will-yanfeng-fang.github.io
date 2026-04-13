@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify">
 <br>
 
-I am a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc.ca/) at University of British Columbia, contributing to academic research through statistical programming, applied econometric analysis, and the production of high-quality research outputs, including collaborative projects with researchers at multiple institutions internationally.
+I am a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc.ca/) at the University of British Columbia, contributing to academic research through statistical programming, applied econometric analysis, and the production of high-quality research outputs, including collaborative projects with researchers at multiple institutions internationally.
 
 My research interests lie in political economy, cultural economics, and anthropology. In my free time, I practice [photography](https://www.flickr.com/photos/202753897@N08/) and music. You can find my [CV here](https://drive.google.com/file/d/12y7sarRsK3IsLTUOa3Sc5b3vH7KEP9sX/view?usp=sharing).
 
