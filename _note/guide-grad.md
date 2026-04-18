@@ -1,6 +1,6 @@
 ---
 title: "UBC — Graduate Guide"
-permalink: /notes/grad
+permalink: /note/grad
 ---
 
 > This page is informal and personal. I share my experience in the M.A. Economics program at the Vancouver School of Economics (VSE), UBC (2024–2025), along with resources and advice I found genuinely useful. I hope it helps prospective and incoming students navigate the program.
