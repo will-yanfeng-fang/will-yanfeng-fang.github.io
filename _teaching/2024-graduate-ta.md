@@ -64,7 +64,7 @@ I have served as a Teaching Assistant at UBC across courses in economics, statis
 
 ---
 
-## LFS 252 — Quantitative Data Analysis
+## LFS 252 / STAT 200 — Quantitative Data Analysis
 
 **What this course is about:** An introduction to statistical reasoning and data analysis for students in Land and Food Systems. Topics typically include descriptive statistics, probability, sampling distributions, hypothesis testing, and regression — applied to environmental and agricultural data.
 
@@ -80,7 +80,7 @@ I have served as a Teaching Assistant at UBC across courses in economics, statis
 
 ---
 
-## FRST/LFS 101 — Principles of Microeconomics
+## FRST/LFS/ECON 101 — Principles of Microeconomics
 
 **What this course is about:** A standard introductory microeconomics course covering supply and demand, elasticity, consumer and producer theory, market structures (perfect competition, monopoly, oligopoly), externalities, and public goods. Readings and examples emphasize the Canadian and global economy.
 
