@@ -8,7 +8,7 @@ date: 2019-07-01
 location: "China & Canada"
 ---
 
-Taught college-level and exam-prep courses across multiple institutions in China and Canada from 2019 to 2024.
+Taught college-level and exam-prep courses across multiple institutions in China and Canada from 2019.
 
 **Subjects:** College-level Economics (UBC & U of T), AP Calculus AB & BC, AP Micro & Macroeconomics, Middle School to Pre-Calculus Math (G7–G12, BC Curriculum & Hong Kong), AMC 8
 
