@@ -12,6 +12,6 @@ location: "Vancouver, BC, Canada"
 - **ECON 226** — Making Sense of Economic Data (2024W), Dr. Jamie McCasland
 - **LFS 252** — Quantitative Data Analysis (2023W), Dr. Michael Johnson
 - **FRST/LFS 101** — Principles of Microeconomics (2023W), Dr. Karen Taylor
-- 
+
 ---
 
