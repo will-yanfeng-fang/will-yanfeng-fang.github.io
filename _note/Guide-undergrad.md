@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "UBC — Undergraduate Guide"
 permalink: /note/undergrad
 ---
