@@ -1,6 +1,6 @@
 ---
 title: "UBC — Undergraduate Guide"
-permalink: /notes/undergrad
+permalink: /note/undergrad
 ---
 
 > This page is informal and personal. I share my honest impressions of courses I took as an undergraduate at UBC (2020–2024), along with resources I wish I had known earlier. I hope it is useful for students in FRE, Economics, and Land and Food Systems — especially those in their first two years.
