@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: justify" markdown="1">
 
-I am a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc.ca/) at the University of British Columbia, contributing to academic research through statistical programming, applied econometric analysis, and the production of high-quality research outputs, including collaborative projects with researchers at multiple institutions internationally. My research interests lie in political economy, cultural economics, and anthropology. You can find my [CV here](https://drive.google.com/file/d/12y7sarRsK3IsLTUOa3Sc5b3vH7KEP9sX/view?usp=sharing).
+I am a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc.ca/) at the University of British Columbia, contributing to academic research through statistical programming, applied econometric analysis, and the production of high-quality research outputs, including collaborative projects with researchers at multiple institutions internationally. My research interests lie in political economy, cultural economics, and Chinese economics. You can find my [CV here](https://drive.google.com/file/d/12y7sarRsK3IsLTUOa3Sc5b3vH7KEP9sX/view?usp=sharing).
 
 I was recognized as an [Outstanding Graduate of the Class of 2024](https://www.landfood.ubc.ca/celebrating-the-class-of-2024/) by the UBC Faculty of Land and Food Systems, featured in a [Faculty Interview](https://www.landfood.ubc.ca/class-of-2024-william-fang/) and a [UBC Admissions Interview](https://mp.weixin.qq.com/s/9oKqySjSlGXv71n2pE0Xig) (Mandarin).
 
