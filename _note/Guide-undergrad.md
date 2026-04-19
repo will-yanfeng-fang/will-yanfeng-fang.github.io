@@ -1,11 +1,6 @@
 ---
 title: "UBC — Undergraduate Guide"
-collection: note
-type: "Student Guide"
-permalink: /note/undergrad/
-venue: "Faculty of Land and Food Systems & Vancouver School of Economics"
-date: 2024-05-01
-location: "Vancouver, BC, Canada"
+permalink: /note/undergrad
 ---
 
 > This page is informal and personal. I share my honest impressions of courses I took as an undergraduate at UBC (2020–2024), along with resources I wish I had known earlier. I hope it is useful for students in FRE, Economics, and Land and Food Systems — especially those in their first two years.
