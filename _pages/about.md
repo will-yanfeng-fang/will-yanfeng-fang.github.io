@@ -9,11 +9,11 @@ redirect_from:
 
 <div style="text-align: justify" markdown="1">
 
-I am an Associate at PricewaterhouseCoopers, jointly appointed to Core Assurance & Digital Assurance since October 2026. I perform quantitative testing and anomaly detection on client financial data, apply statistical sampling and data analytics to test financial accounts, and build reproducible workflows in Python, SQL, and Power BI to automate audit procedures, including data cleaning and reconciliation of large datasets.
+I'm an Associate at PricewaterhouseCoopers, jointly appointed to Core Assurance & Digital Assurance. I perform quantitative testing and anomaly detection on client financial data, apply statistical sampling and data analytics to test financial accounts, and build reproducible workflows in Python, SQL, and Power BI to automate audit procedures, including data cleaning and reconciliation of large datasets.
 
-Before joining PwC, I was a Research Assistant to Professor [Nathan Nunn](https://nathannunn.arts.ubc.ca/) at the University of British Columbia and Professor [James Feigenbaum](https://jamesfeigenbaum.github.io/) at Boston University, contributing to academic research through statistical programming, applied econometric analysis, and the production of high-quality research outputs. My research interests lie in political economy, economic history, labor economics, and cultural and Chinese economics. You can find my [CV here](https://drive.google.com/file/d/12y7sarRsK3IsLTUOa3Sc5b3vH7KEP9sX/view?usp=sharing).
+Before joining PwC, I was a Research Assistant to Prof. [Nathan Nunn](https://nathannunn.arts.ubc.ca/) at the University of British Columbia and Prof. [James Feigenbaum](https://jamesfeigenbaum.github.io/) at Boston University, contributing to academic research through statistical programming, econometric analysis, and the production of high-quality research. My research interests lie in political economy, economic history and Chinese economics. My CV is [here](https://drive.google.com/file/d/12y7sarRsK3IsLTUOa3Sc5b3vH7KEP9sX/view?usp=sharing).
 
-I was recognized as an [Outstanding Graduate of the Class of 2024](https://www.landfood.ubc.ca/celebrating-the-class-of-2024/) by the UBC Faculty of Land and Food Systems, featured in a [Faculty Interview](https://www.landfood.ubc.ca/class-of-2024-william-fang/) and a [UBC Admissions Interview](https://mp.weixin.qq.com/s/9oKqySjSlGXv71n2pE0Xig) (Mandarin).
+I was recognized as an [Outstanding Graduate (2024)](https://www.landfood.ubc.ca/celebrating-the-class-of-2024/) by the UBC Faculty of Land and Food Systems, featured in a [Faculty Interview](https://www.landfood.ubc.ca/class-of-2024-william-fang/) and a [UBC Admissions Interview](https://mp.weixin.qq.com/s/9oKqySjSlGXv71n2pE0Xig) (Mandarin).
 
 <br>
 
@@ -22,8 +22,15 @@ I was recognized as an [Outstanding Graduate of the Class of 2024](https://www.l
 **University of British Columbia** — Vancouver, BC
 
 *M.A. Economics (GPA 4.1/4.3)*, Sep 2024 – Nov 2025
-
 *B.Sc. Food and Resource Economics, with Honours (GPA 4.0/4.3)*, Sep 2020 – May 2024
+
+<br>
+
+# Industry Experience
+
+**PricewaterhouseCoopers** — Shenzhen, China
+
+*Associate, Core & Digital Assurance*, Oct 2026 - Present
 
 <br>
 
